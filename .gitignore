@@ -1,3 +1,13 @@
+archive/
+bin/
+data/
+DCGAN/lightning_logs/
+DCGAN/lightning_logs/*
+Pix2Pix/evaluation/
+Pix2Pix/evaluation/*
+Pix2Pix/_evaluation/
+Pix2Pix/__pycache__/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
